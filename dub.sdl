@@ -1,0 +1,5 @@
+name "bd"
+description "A minimal D application."
+copyright "Copyright © 2016, hanh"
+authors "hanh"
+dependency "libasync" version="~>0.7.8"
